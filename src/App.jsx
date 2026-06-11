@@ -56,7 +56,7 @@ function App() {
                 
 
                 <img
-                  src="src/assets/publicidad.jpg"
+                  src="../src/assets/publicidad.jpg"
                   alt="Publicidad"
                   className="img-fluid rounded"
                 />
